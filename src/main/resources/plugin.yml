@@ -1,0 +1,9 @@
+name: yeet
+version: ${project.version}
+main: nl.poepsnoeper.dylan._.yeet
+api-version: 1.17
+prefix: Plugin Loaded [YEET]
+load: STARTUP
+authors: [ Dylan ]
+description: Gwn iets simpels ig
+website: poepsnoeper.nl
